@@ -2,9 +2,11 @@
 <h2>LaraVfuck</h2>
 </div>
 
-<samp>
+<div align="center">
+  <samp>
 Laravfuck is a tool to find .env in laravel
 </samp>
+</div>
 
 <b> Overview : </b>
 <br>

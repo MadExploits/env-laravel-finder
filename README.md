@@ -12,9 +12,12 @@ Laravfuck is a tool to find .env in laravel
 Laravel is an open source PHP based web application framework, using the Model-View-Controller concept. Laravel is under the MIT license, using GitHub as a code sharing platform
 </samp>
 
-<i> Usage : python laravfuck.py </i>
-
 <b> Installation </b>
 ```
 python3 -m pip install -r requirements.txt
+```
+
+<b> Usage : </b>
+```
+python laravfuck.py
 ```

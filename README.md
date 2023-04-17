@@ -4,7 +4,7 @@
 
 <div align="center">
   <samp>
-Laravfuck is a tool to find .env in laravel
+Laravfuck is a tool to discover .env in laravel
 </samp>
 </div>
 
